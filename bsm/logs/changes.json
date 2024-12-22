@@ -1,0 +1,4 @@
+{"event_type": "deleted", "src_path": "/home/majed/bsm/test/tes", "is_directory": true}
+{"event_type": "modified", "src_path": "/home/majed/bsm/test", "is_directory": true}
+{"event_type": "deleted", "src_path": "/home/majed/bsm/test/src.cpp", "is_directory": false}
+{"event_type": "modified", "src_path": "/home/majed/bsm/test", "is_directory": true}
